@@ -1,0 +1,23 @@
+body {
+	margin:0 auto;
+	background:#F4F4F4;
+	font-family: "Raleway", Helvetica, sans-serif;
+	header{
+		background:white;
+		padding:10px 20px;
+		li{
+			display: inline-block;
+			list-style: none;
+			padding-left: 2%;
+			a{
+				text-decoration: none;
+				color: black;
+				:after{
+					height: 10px;
+					width: 1px;
+					background:black;
+				}
+			}
+		}
+	}
+}

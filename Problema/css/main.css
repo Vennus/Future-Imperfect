@@ -1,0 +1,20 @@
+body {
+  background: #F4F4F4;
+  font-family: "Raleway", Helvetica, sans-serif; }
+  body header {
+    background: #8DA6AB; }
+    body header li {
+      display: inline-block;
+      list-style: none;
+      padding-left: 2%; }
+      body header li a {
+        text-decoration: none;
+        color: black; }
+        body header li a :after {
+          height: 10px;
+          width: 1px; }
+
+section {
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
